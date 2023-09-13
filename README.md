@@ -12,7 +12,11 @@ Dentro de este repositorio se encuentran cuatro documentos principales.
 4- "Portafolio_Análisis.pdf": Documento de análisis de lo realizado en el archivo fw.py.
 
 Es necesario instalar las siguientes librerías para el correcto funcionamiento de los archivos:
+
 matplotlib.pyplot 
+
 numpy 
+
 pandas 
+
 sklearn
