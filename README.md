@@ -20,3 +20,9 @@ numpy
 pandas 
 
 sklearn
+
+SMA0401 Aprendizaje e IA
+
+https://github.com/Caceres-A01706972/TC3006C-StoreSales/commit/888126b1be7268de080d2a25f29134a8346348e7
+
+(Link para la evaluación de competencias correspondientes al reto)
