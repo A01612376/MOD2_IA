@@ -1,2 +1,9 @@
 # MOD2_IA
 Repositorio para el módulo dos "Introducción IA" del bloque  "Inteligencia artificial avanzada para la ciencia de datos I"
+
+Dentro de este repositorio se encuentran cuatro documentos principales.
+
+1- "regresion_lineal.py": Archivo con la primera entrega de un modelo de regresión lineal sin el uso del framework.
+2- "tvmarketing.csv": Archivo con el dataframe utilizado en el modelo de regresión lineal con uso de un framework. El cual contiene los datos de las ventas y televisores de una tienda.
+3- "fw.py": Archivo con la segunda entrega de un modelo de regresión lineal con el uso de un framework.
+4- "Portafolio_Análisis.pdf": Documento de análisis de lo realizado en el archivo fw.py.
